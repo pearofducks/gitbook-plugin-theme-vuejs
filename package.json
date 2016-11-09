@@ -1,0 +1,12 @@
+{
+  "name": "gitbook-plugin-theme-vuejs",
+  "version": "0.0.1",
+  "description": "vue.js theme for gitbook",
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "gitbook": {
+    "properties": {
+    }
+  }
+}
