@@ -78,6 +78,7 @@ li a {
 .markdown-section code, .markdown-section pre {
   font-family: 'Roboto Mono', Monaco, courier, monospace;
   -webkit-font-smoothing: initial;
+  -moz-osx-font-smoothing: initial;
   background-color: #f8f8f8;
 }
 .markdown-section pre>code {
@@ -106,6 +107,8 @@ code {
 
 code .token {
   min-height: 1.5em;
+  -webkit-font-smoothing: initial;
+  -moz-osx-font-smoothing: initial;
 }
 pre code { position: relative; }
 pre code.lang-html:after,
