@@ -81,6 +81,10 @@ li a {
   -moz-osx-font-smoothing: initial;
   background-color: #f8f8f8;
 }
+span[class^="hljs-"] {
+  -webkit-font-smoothing: initial;
+  -moz-osx-font-smoothing: initial;
+}
 .markdown-section pre>code {
   font-size: 0.8em;
   display: block;
