@@ -81,6 +81,9 @@ li a {
   -moz-osx-font-smoothing: initial;
   background-color: #f8f8f8;
 }
+code span.css,
+code span.javascript,
+code span.html,
 span[class^="hljs-"] {
   -webkit-font-smoothing: initial;
   -moz-osx-font-smoothing: initial;
